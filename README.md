@@ -1,3 +1,5 @@
+<img alt="GitHub repo file count (file type)" src="https://img.shields.io/github/directory-file-count/authifyWeb/logos%2Flogos?label=Total%20Logos&color=goldenrod&cacheSeconds=86400">
+
 # logos
 Directory to host brand logos 
 
